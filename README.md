@@ -1,6 +1,6 @@
-# Titanic Kaggle - EDA e Machine Learning
+# Titanic Kaggle
 
-Projeto para explorar o dataset Titanic do Kaggle, comparar modelos de machine learning e gerar um arquivo de submissao no formato esperado pela competicao.
+Projeto para explorar o dataset Titanic do Kaggle, comparar modelos de machine learning e gerar um arquivo de submissao no formato esperado pela competicão.
 
 ## Arquivos principais
 
